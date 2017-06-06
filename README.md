@@ -1,2 +1,2 @@
 # Play-R
-Just trying to explore o Github 
+Just trying to explore Github 
